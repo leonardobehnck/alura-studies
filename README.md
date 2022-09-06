@@ -8,4 +8,4 @@
 
 ## 📁 Acesso ao projeto
 
-<a href="https://refined-github-html-preview.kidonng.workers.dev/leonardobehnck/alura-studies/raw/main/src/index.tsx">Clique aqui para acessar a demo do projeto.</a>
+<a href="https://refined-github-html-preview.kidonng.workers.dev/leonardobehnck/alura-studies/raw/main/public/index.html">Clique aqui para acessar a demo do projeto.</a>
