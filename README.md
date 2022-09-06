@@ -8,7 +8,4 @@
 
 ## 📁 Acesso ao projeto
 
-
-## :hammer: Funcionalidades do projeto
-
-- `Função`: Exercício de Tela de Login
+<a href="https://refined-github-html-preview.kidonng.workers.dev/leonardobehnck/alura-studies/raw/main/src/index.tsx">Clique aqui para acessar a demo do projeto.</a>
